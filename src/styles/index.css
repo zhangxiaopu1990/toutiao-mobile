@@ -73,3 +73,18 @@
 .toutiao-wuwangluo:before {
   content: "\e615";
 }
+body {
+  background-color: #f5f7f9;
+}
+input {
+  -webkit-box-shadow: 0 0 0 1000px white inset;
+}
+.app-nav-bar {
+  background-color: #3296fa;
+}
+.app-nav-bar .van-nav-bar__title {
+  color: #fff;
+}
+.app-nav-bar .van-icon {
+  color: #fff;
+}
